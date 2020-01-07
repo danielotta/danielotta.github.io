@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    padding-bottom: 30px;
+}
+
+.presentation {
+    font-size: 1.3em;
+    line-height: 1.6em;
+    font-family: 'Century';
+    text-align: center;
+}
